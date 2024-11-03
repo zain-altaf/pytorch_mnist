@@ -1,0 +1,2 @@
+augmentation hyperparameters,augmentation hyperparameter values,test_loss,test_accuracy,batch_norm,dropout
+"random translation, gaussian blur","0.07287419770349765, 1",0.023044363688561133,0.9918,1,0.0

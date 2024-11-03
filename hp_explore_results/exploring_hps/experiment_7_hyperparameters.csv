@@ -1,0 +1,2 @@
+augmentation hyperparameters,augmentation hyperparameter values,test_loss,test_accuracy,batch_norm,dropout
+"random rotation, elastic transform","9.849558702008196, 5.253097974404371",0.03229412025344209,0.9904,0,0.25

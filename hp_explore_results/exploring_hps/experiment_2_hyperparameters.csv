@@ -1,0 +1,2 @@
+augmentation hyperparameters,augmentation hyperparameter values,test_loss,test_accuracy,batch_norm,dropout
+"random rotation, random translation","9.774618586310124, 0.06516412390873416",0.027479419126571158,0.9914,0,0.25

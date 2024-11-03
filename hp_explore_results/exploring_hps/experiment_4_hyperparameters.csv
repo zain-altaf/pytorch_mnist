@@ -1,0 +1,2 @@
+augmentation hyperparameters,augmentation hyperparameter values,test_loss,test_accuracy,batch_norm,dropout
+"elastic transform, gaussian blur","5.812267977282633, 3",0.03722683046170605,0.9899,1,0.25
