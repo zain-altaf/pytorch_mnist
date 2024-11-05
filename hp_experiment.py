@@ -57,10 +57,10 @@ def log_hyperparameters(hps_for_run, hp_vals_for_run, test_loss, test_accuracy, 
 
 def log_train_metrics(epochs, train_losses, train_accuracies, exp_num):
     train_metrics = pd.DataFrame({
-            'Epoch': epochs,
-            'Train Loss': train_losses,
-            'Train Accuracy': train_accuracies
-        })
+        'Epoch': epochs,
+        'Train Loss': train_losses,
+        'Train Accuracy': train_accuracies
+    })
     
     train_f_name = f"exp_{exp_num}_train_loss_and_accuracy.csv"
     train_save_path = os.path.join(save_folder, train_f_name)
